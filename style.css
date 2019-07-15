@@ -58,6 +58,10 @@ a:focus {
     color: #0086ff;
 }
 
+h1 {
+    margin-top: 0;
+}
+
 .blocks {
     width: 510px;
     display: flex;
